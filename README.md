@@ -26,3 +26,25 @@ Check out the project repository on GitHub:
 To get started, clone the repository to a local directory on your machine:
 ```bash
 git clone https://github.com/anantarya/Truegradient_assignment
+```
+
+2. Navigate to the project directory:
+
+
+3. Install dependencies for both frontend and backend:
+
+```bash
+npm install
+```
+
+4. Set up environment variables:
+
+- Create a .env file in the root directory and add necessary environment variables.
+
+6. Open another terminal and start the development server:
+
+```bash
+npm run dev
+```
+
+7. Open your browser and navigate to http://localhost:3300 to view the application.
